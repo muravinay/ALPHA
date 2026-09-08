@@ -1,1 +1,2 @@
 this is the my first file in the git🫠
+this is a ag class 
